@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Jeopardy/static/css/main.86bfd3f1.css",
+    "main.js": "/Jeopardy/static/js/main.5bf19232.js",
+    "static/media/HomemadeApple.ttf": "/Jeopardy/static/media/HomemadeApple.3396b0fd3770da132ec5.ttf",
+    "static/media/GreatVibes-Regular.ttf": "/Jeopardy/static/media/GreatVibes-Regular.9f3b78d95140c3425300.ttf",
+    "static/media/SCRIPTIN.ttf": "/Jeopardy/static/media/SCRIPTIN.c6392ef678b5929079b4.ttf",
+    "static/media/Daily Double.mp3": "/Jeopardy/static/media/Daily Double.f4dd215ee791bb4faaee.mp3",
+    "static/media/Sacramento-Regular.ttf": "/Jeopardy/static/media/Sacramento-Regular.e8c87b94a9bae9bc1366.ttf",
+    "static/media/gyparody-rg.ttf": "/Jeopardy/static/media/gyparody-rg.ebea8ce8706e95608134.ttf",
+    "static/media/MrDafoe-Regular.ttf": "/Jeopardy/static/media/MrDafoe-Regular.1b1b9121d38dfc09babf.ttf",
+    "static/media/Kristi.ttf": "/Jeopardy/static/media/Kristi.a9447556654c4a1925ac.ttf",
+    "static/media/Bilbo-Regular.ttf": "/Jeopardy/static/media/Bilbo-Regular.34a41484568ffdabd620.ttf",
+    "static/media/ITC-Korinna-Bold.ttf": "/Jeopardy/static/media/ITC-Korinna-Bold.28091ad46327abe6e22f.ttf",
+    "static/media/time-up-buzzer.mp3": "/Jeopardy/static/media/time-up-buzzer.cdce99991644f4355127.mp3",
+    "static/media/daisy.ttf": "/Jeopardy/static/media/daisy.3bb5628a9ad3e9be2410.ttf",
+    "static/media/buzzTwo.PNG": "/Jeopardy/static/media/buzzTwo.8a6d52d43797ea60c9d5.PNG",
+    "static/media/buzzOne.PNG": "/Jeopardy/static/media/buzzOne.1cbfc0841da99604afbc.PNG",
+    "static/media/buzzThree.PNG": "/Jeopardy/static/media/buzzThree.820d76938237c6bfc7a4.PNG",
+    "index.html": "/Jeopardy/index.html",
+    "main.86bfd3f1.css.map": "/Jeopardy/static/css/main.86bfd3f1.css.map",
+    "main.5bf19232.js.map": "/Jeopardy/static/js/main.5bf19232.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86bfd3f1.css",
+    "static/js/main.5bf19232.js"
+  ]
+}
