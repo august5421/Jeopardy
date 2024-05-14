@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'LogoFont';
+    src: local('LogoFont'), url(../Assets/Fonts/gyparody-rg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'boardFont';
+  src: local('LogoFont'), url(../Assets/Fonts/ITC-Korinna-Bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'HW1';
+  src: local('LogoFont'), url(../Assets/Fonts/HandwritingFonts/Bilbo-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'HW2';
+  src: local('LogoFont'), url(../Assets/Fonts/HandwritingFonts/daisy.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'HW3';
+  src: local('LogoFont'), url(../Assets/Fonts/HandwritingFonts/GreatVibes-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'HW4';
+  src: local('LogoFont'), url(../Assets/Fonts/HandwritingFonts/HomemadeApple.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'HW5';
+  src: local('LogoFont'), url(../Assets/Fonts/HandwritingFonts/Kristi.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'HW6';
+  src: local('LogoFont'), url(../Assets/Fonts/HandwritingFonts/MrDafoe-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'HW7';
+  src: local('LogoFont'), url(../Assets/Fonts/HandwritingFonts/Sacramento-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'HW8';
+  src: local('LogoFont'), url(../Assets/Fonts/HandwritingFonts/SCRIPTIN.ttf) format('truetype');
+}
